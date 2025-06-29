@@ -5,7 +5,7 @@ import { Users, Award, TrendingUp } from 'lucide-react';
 
 export default function AboutUsPage() {
   return (
-    <div className="bg-white min-h-screen pt-20">
+    <div className="bg-white min-h-screen">
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-slate-900 via-blue-900 to-indigo-900 text-white relative overflow-hidden">
         <div className="absolute inset-0 opacity-10">
